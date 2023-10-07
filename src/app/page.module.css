@@ -1,0 +1,6 @@
+.buttonContainer {
+    @apply absolute top-0 w-[600px] h-[450px] z-10; 
+}
+.button {
+    @apply absolute m-auto top-[400px] w-10 h-10 bg-white rounded-full p-2 left-1/2 -translate-x-1/2;
+}
